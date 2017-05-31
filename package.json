@@ -1,0 +1,22 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Front-End Tutorial",
+  "main": "app.js",
+  "dependencies": {
+    "path": "^0.12.7",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.16",
+    "lodash": "^4.17.4",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  },
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "author": "t.wuttipong",
+  "license": "MIT"
+}
