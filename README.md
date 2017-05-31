@@ -1,4 +1,4 @@
-# [Webpack Dev Seve Example](https://gokulkrishh.github.io/webpack/2017/02/03/how-to-setup-webpack-2.html)
+# [Webpack Dev Seve Example](https://github.com/wuttipongT/node.js-webpack-devserv)
 
 > Simple tutorial webpack.
 
